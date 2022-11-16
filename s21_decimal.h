@@ -10,6 +10,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 #include <string.h>
 
 #define S21_NAN 0.0/0.0 //  __builtin_nanf("0x7fc00000")
